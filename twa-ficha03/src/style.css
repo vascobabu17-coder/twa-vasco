@@ -1,0 +1,65 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  background: #faf8f5;
+  color: #222;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+h1 {
+  color: #5b1f2e;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+input, select, button {
+  font: inherit;
+  padding: 6px 10px;
+}
+
+#list {
+  list-style: none;
+  padding: 0;
+}
+
+#list li {
+  padding: 8px 12px;
+  border-bottom: 1px solid #ddd;
+  cursor: pointer;
+}
+
+#list li:hover {
+  background: #f1e8ea;
+}
+
+#list li.selected {
+  background: #5b1f2e;
+  color: white;
+}
+
+#detail {
+  border-left: 4px solid #5b1f2e;
+  padding-left: 16px;
+}
+
+.tags {
+  display: flex;
+  gap: 6px;
+  list-style: none;
+  padding: 0;
+}
+
+.tags li {
+  background: #f1e8ea;
+  border-radius: 4px;
+  padding: 2px 8px;
+}
