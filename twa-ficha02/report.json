@@ -1,0 +1,28 @@
+{
+  "count": 9,
+  "total": 248.93,
+  "categories": [
+    "platformer",
+    "rpg",
+    "shooter",
+    "simulation",
+    "sports"
+  ],
+  "top3": [
+    {
+      "id": 3,
+      "name": "FIFA 26",
+      "price": 69.99
+    },
+    {
+      "id": 2,
+      "name": "Elden Ring",
+      "price": 59.99
+    },
+    {
+      "id": 8,
+      "name": "Doom Eternal",
+      "price": 39.99
+    }
+  ]
+}

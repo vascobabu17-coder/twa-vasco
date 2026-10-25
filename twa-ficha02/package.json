@@ -1,0 +1,13 @@
+{
+  "name": "twa-ficha02",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "check": "node check.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
