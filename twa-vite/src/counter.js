@@ -1,5 +1,5 @@
 export function setupCounter(element) {
-  let counter = 10
+  let counter = 0
   const setCounter = (count) => {
     counter = count
     element.innerHTML = `Count is ${counter}`
@@ -8,5 +8,5 @@ export function setupCounter(element) {
   }
   // contar para baixo
   element.addEventListener('click', () => setCounter(counter - 1))
-  setCounter(10)
+  setCounter(0)
 }
