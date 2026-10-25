@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "name": "The Witcher 3",
+    "category": "rpg",
+    "price": 29.99,
+    "tags": [
+      "open-world",
+      "fantasy",
+      "story"
+    ],
+    "studio": {
+      "name": "CD Projekt Red",
+      "country": "PL"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Elden Ring",
+    "category": "rpg",
+    "price": 59.99,
+    "tags": [
+      "open-world",
+      "souls",
+      "fantasy"
+    ],
+    "studio": {
+      "name": "FromSoftware",
+      "country": "JP"
+    }
+  },
+  {
+    "id": 3,
+    "name": "FIFA 26",
+    "category": "sports",
+    "price": 69.99,
+    "tags": [
+      "football",
+      "multiplayer"
+    ],
+    "studio": {
+      "name": "EA Sports",
+      "country": "CA"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Rocket League",
+    "category": "sports",
+    "price": 0,
+    "tags": [
+      "cars",
+      "football",
+      "multiplayer"
+    ],
+    "studio": {
+      "name": "Psyonix",
+      "country": "US"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Hollow Knight",
+    "category": "platformer",
+    "price": 14.99,
+    "tags": [
+      "indie",
+      "metroidvania"
+    ],
+    "studio": {
+      "name": "Team Cherry",
+      "country": "AU"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Celeste",
+    "category": "platformer",
+    "price": 19.99,
+    "tags": [
+      "indie",
+      "pixel-art",
+      "story"
+    ],
+    "studio": {
+      "name": "Maddy Makes Games",
+      "country": "CA"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Counter-Strike 2",
+    "category": "shooter",
+    "price": 0,
+    "tags": [
+      "multiplayer",
+      "competitive"
+    ],
+    "studio": {
+      "name": "Valve",
+      "country": "US"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Doom Eternal",
+    "category": "shooter",
+    "price": 39.99,
+    "tags": [
+      "singleplayer",
+      "fast"
+    ],
+    "studio": {
+      "name": "id Software",
+      "country": "US"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Stardew Valley",
+    "category": "simulation",
+    "price": 13.99,
+    "tags": [
+      "indie",
+      "farming",
+      "pixel-art"
+    ],
+    "studio": {
+      "name": "ConcernedApe",
+      "country": "US"
+    }
+  }
+]
