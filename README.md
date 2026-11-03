@@ -52,5 +52,8 @@ Componentes e formulário (parte da Ficha 04).
 - `node check.js` · `npm install && npm run dev`
 - O passo 8 (repositório do grupo) é feito no repositório do projeto, não aqui.
 
+## twa-ficha06/
+Rotas e paginação: Vue Router (`/`, `/items/:id`, `/items/new`, `/pokemon?page=N`, 404), `store.js` partilhado e PokéAPI paginada. Ver `twa-ficha06/README.md` (inclui as respostas de reflexão).
+
 ## Uso de IA
-Fichas 01 a 05 feitas com a ajuda do Claude (Anthropic), fora da aula. Revi e percebo todo o código.
+Fichas 01 a 06 feitas com a ajuda do Claude (Anthropic), fora da aula. Revi e percebo todo o código.
